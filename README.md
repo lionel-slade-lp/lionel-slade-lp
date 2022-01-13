@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping my team and easepl an adopt cloud technologies
 - 🌱 I’m currently learning AI and Big Data
 - 💞️ I’m looking to collaborate on build lrge scale, high volume web-applications 
-- 📫 How to reach me loinel.slade@leaseplan.com
+- 📫 How to reach me lionel.slade@leaseplan.com
 
 <!---
 lionel-slade-lp/lionel-slade-lp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
